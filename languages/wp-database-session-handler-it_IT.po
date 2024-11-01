@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Database Session Handler\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-19 11:35+0000\n"
+"PO-Revision-Date: 2018-03-20 13:53+0000\n"
+"Last-Translator: WdJonr7VLA <steve@stefanocanziani.com>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: sc-session-handler.php:72
+msgid "DB Session Handler settings"
+msgstr "Impoostazione Gestore Sessioni DB"
+
+#: sc-session-handler.php:73
+msgid "DB Session Handler"
+msgstr "Gestore Sessioni DB "
+
+#: admin.php:13
+msgid "Your permissions are not sufficient to view the page"
+msgstr ""
+"\n"
+"Le tue autorizzazioni non sono sufficienti per visualizzare la pagina"
+
+#: admin.php:34
+msgid "Cleaned all sessions."
+msgstr "Tutte le sessioni sono state pulite."
+
+#: admin.php:46
+msgid "ID"
+msgstr "ID"
+
+#: admin.php:46
+msgid "CONTENT"
+msgstr "CONTENUTO"
+
+#: admin.php:46
+msgid "IP"
+msgstr "IP"
+
+#: admin.php:46
+msgid "LAST UPDATE"
+msgstr "ULTIMA MODIFICA"
+
+#: inc/admin_page.php:4
+msgid "WP Database Session Handler settings"
+msgstr "Impostazioni WP Gestore Sessioni in Database "
+
+#: inc/admin_page.php:17
+msgid "Options"
+msgstr "Opzioni"
+
+#: inc/admin_page.php:29
+msgid "Clean expired sessions on open new session"
+msgstr "Pulisci le sessioni scadute all'apertura di una nuova sessione"
+
+#: inc/admin_page.php:38
+msgid "Clean expired sessions on garbage collection"
+msgstr "Pulisci le sessioni scadute durante \"garbage collection\""
+
+#: inc/admin_page.php:47
+msgid "Clean expired sessions every N hours. 0 for disable"
+msgstr "Pulire le sessioni scadute ogni N ore. 0 per disabilitare"
+
+#: inc/admin_page.php:53
+msgid "Save"
+msgstr "Salva"
+
+#: inc/admin_page.php:64
+msgid "Clean all session"
+msgstr "Pulisci tutte le sessioni"
+
+#: inc/admin_page.php:69 inc/admin_page.php:91
+msgid "Currently there are: "
+msgstr ""
+"\n"
+"Attualmente ci sono:"
+
+#: inc/admin_page.php:71 inc/admin_page.php:93
+msgid " sessions "
+msgstr "sessioni"
+
+#: inc/admin_page.php:74
+msgid ""
+"If you want to clean all session you can press this button. All connected "
+"users will lose their session informations."
+msgstr ""
+"\n"
+"Se vuoi pulire tutte le sessioni puoi premere questo pulsante. Tutti gli "
+"utenti connessi perderanno le informazioni sulla sessione."
+
+#: inc/admin_page.php:86
+msgid "View sessions"
+msgstr ""
+"\n"
+"Visualizza le sessioni"
+
+#: inc/admin_page.php:96
+msgid "If you want to view the content of all sessions, push the button."
+msgstr ""
+"\n"
+"Se si desidera visualizzare il contenuto di tutte le sessioni, premere il "
+"pulsante."
+
+#: inc/admin_page.php:117
+msgid "Info"
+msgstr "Info"
+
+#: inc/admin_page.php:120
+msgid ""
+"In this page you can setup when the sessions will be automatically cleaned."
+"<br><br>You can also check how many sessions actually exist currently and "
+"you can clean them.<br><br>Further more, you can view all sessions content."
+msgstr ""
+"In questa pagina puoi configurare quando le sessioni verranno "
+"automaticamente ripulite. <br><br> Puoi anche controllare quante sessioni "
+"esistono attualmente e puoi pulirle. <br><br> Inoltre puoi visualizzare il "
+"contenuto di tutte le sessioni."
+
+#. Name of the plugin
+msgid "WP Database Session Handler"
+msgstr "WP Gestore Sessioni in Database "
+
+#. Description of the plugin
+msgid ""
+"Add handling of user session inside SQL Database. This session manager is "
+"useful if you have an environment with more than one frontend server and a "
+"load balancer who switch the web traffic dinamically between frontend hosts."
+msgstr ""
+"Aggiungi la gestione delle sessioni utente nel database SQL. Questo gestore "
+"di sessione è utile se si dispone di un ambiente con più di un server front-"
+"end e un servizio di bilanciamento del carico che cambia dinamicamente il "
+"traffico Web tra gli host frontend."
+
+#. URI of the plugin
+msgid "http://www.stefanocanziani.com/wp_plugin/sc-session-handler.zip"
+msgstr "http://www.stefanocanziani.com/wp_plugin/sc-session-handler.zip"
+
+#. Author of the plugin
+msgid "Stefano Canziani"
+msgstr "Stefano Canziani"
+
+#. Author URI of the plugin
+msgid "http://www.stefanocanziani.com"
+msgstr "http://www.stefanocanziani.com"

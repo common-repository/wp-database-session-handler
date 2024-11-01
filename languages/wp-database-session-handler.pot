@@ -1,0 +1,131 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Database Session Handler\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-20 13:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/admin_page.php:71 inc/admin_page.php:93
+msgid " sessions "
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Add handling of user session inside SQL Database. This session manager is "
+"useful if you have an environment with more than one frontend server and a "
+"load balancer who switch the web traffic dinamically between frontend hosts."
+msgstr ""
+
+#: inc/admin_page.php:64
+msgid "Clean all session"
+msgstr ""
+
+#: inc/admin_page.php:47
+msgid "Clean expired sessions every N hours. 0 for disable"
+msgstr ""
+
+#: inc/admin_page.php:38
+msgid "Clean expired sessions on garbage collection"
+msgstr ""
+
+#: inc/admin_page.php:29
+msgid "Clean expired sessions on open new session"
+msgstr ""
+
+#: admin.php:34
+msgid "Cleaned all sessions."
+msgstr ""
+
+#: admin.php:46
+msgid "CONTENT"
+msgstr ""
+
+#: inc/admin_page.php:69 inc/admin_page.php:91
+msgid "Currently there are: "
+msgstr ""
+
+#: sc-session-handler.php:73
+msgid "DB Session Handler"
+msgstr ""
+
+#: sc-session-handler.php:72
+msgid "DB Session Handler settings"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.stefanocanziani.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.stefanocanziani.com/wp_plugin/sc-session-handler.zip"
+msgstr ""
+
+#: admin.php:46
+msgid "ID"
+msgstr ""
+
+#: inc/admin_page.php:74
+msgid ""
+"If you want to clean all session you can press this button. All connected "
+"users will lose their session informations."
+msgstr ""
+
+#: inc/admin_page.php:96
+msgid "If you want to view the content of all sessions, push the button."
+msgstr ""
+
+#: inc/admin_page.php:120
+msgid ""
+"In this page you can setup when the sessions will be automatically cleaned."
+"<br><br>You can also check how many sessions actually exist currently and "
+"you can clean them.<br><br>Further more, you can view all sessions content."
+msgstr ""
+
+#: inc/admin_page.php:117
+msgid "Info"
+msgstr ""
+
+#: admin.php:46
+msgid "IP"
+msgstr ""
+
+#: admin.php:46
+msgid "LAST UPDATE"
+msgstr ""
+
+#: inc/admin_page.php:17
+msgid "Options"
+msgstr ""
+
+#: inc/admin_page.php:53
+msgid "Save"
+msgstr ""
+
+#. Author of the plugin
+msgid "Stefano Canziani"
+msgstr ""
+
+#: inc/admin_page.php:86
+msgid "View sessions"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Database Session Handler"
+msgstr ""
+
+#: inc/admin_page.php:4
+msgid "WP Database Session Handler settings"
+msgstr ""
+
+#: admin.php:13
+msgid "Your permissions are not sufficient to view the page"
+msgstr ""
